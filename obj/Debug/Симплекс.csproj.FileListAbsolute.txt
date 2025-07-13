@@ -1,0 +1,21 @@
+C:\Users\79538\Desktop\Симплекс\bin\Debug\Симплекс.exe.config
+C:\Users\79538\Desktop\Симплекс\bin\Debug\Симплекс.exe
+C:\Users\79538\Desktop\Симплекс\bin\Debug\Симплекс.pdb
+C:\Users\79538\Desktop\Симплекс\obj\Debug\Симплекс.csproj.AssemblyReference.cache
+C:\Users\79538\Desktop\Симплекс\obj\Debug\Симплекс.csproj.CoreCompileInputs.cache
+C:\Users\79538\Desktop\Симплекс\obj\Debug\Симплекс.exe
+C:\Users\79538\Desktop\Симплекс\obj\Debug\Симплекс.pdb
+C:\Users\PC\Desktop\Симплекс (2)\bin\Debug\Симплекс.exe.config
+C:\Users\PC\Desktop\Симплекс (2)\bin\Debug\Симплекс.exe
+C:\Users\PC\Desktop\Симплекс (2)\bin\Debug\Симплекс.pdb
+C:\Users\PC\Desktop\Симплекс (2)\obj\Debug\Симплекс.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Симплекс (2)\obj\Debug\Симплекс.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Симплекс (2)\obj\Debug\Симплекс.exe
+C:\Users\PC\Desktop\Симплекс (2)\obj\Debug\Симплекс.pdb
+C:\Users\PC\Desktop\Чет проектики на резюме\Симплекс\bin\Debug\Симплекс.exe.config
+C:\Users\PC\Desktop\Чет проектики на резюме\Симплекс\bin\Debug\Симплекс.exe
+C:\Users\PC\Desktop\Чет проектики на резюме\Симплекс\bin\Debug\Симплекс.pdb
+C:\Users\PC\Desktop\Чет проектики на резюме\Симплекс\obj\Debug\Симплекс.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Чет проектики на резюме\Симплекс\obj\Debug\Симплекс.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Чет проектики на резюме\Симплекс\obj\Debug\Симплекс.exe
+C:\Users\PC\Desktop\Чет проектики на резюме\Симплекс\obj\Debug\Симплекс.pdb
